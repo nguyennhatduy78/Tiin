@@ -1,2 +1,3 @@
 # Tiin
-Tiin app
+- Tiin app
+- Install pods before running
